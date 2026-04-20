@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-3010569932683737647
+--- !u!114 &-1887927672117635190
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "Ba\xF1era"
+  m_Name: M_Estanteria
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -41,11 +41,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 191f0cf2e5a00764795c8c1478c8981f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4ab0c748914f6404686523ae7fabc3ec, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 64225234b946fe842ae22f8c59e3e885, type: 3}
+        m_Texture: {fileID: 2800000, guid: 97909592d9b325f468b5d10567652c43, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -65,11 +65,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 191f0cf2e5a00764795c8c1478c8981f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4ab0c748914f6404686523ae7fabc3ec, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 5367fa3d26cf4f64cbc44ed299ba3530, type: 3}
+        m_Texture: {fileID: 2800000, guid: 747b4612b0281b242bc058937014aead, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
